@@ -61,5 +61,5 @@ The accurate reproduction of ground truth patterns on test data confirms that th
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/adibgpt/Multitask-Learning-enabled-Generative-Variational-Autoencoder
+   cd Multitask-Learning-enabled-Generative-Variational-Autoencoder
