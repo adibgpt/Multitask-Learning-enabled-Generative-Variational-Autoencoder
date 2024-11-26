@@ -10,7 +10,7 @@ This repository contains the results of training and evaluating a [describe your
 
 The following visualization illustrates the model's predictions over several epochs during the training process compared to the ground truth:
 
-![Training Progression](path/to/training_visualization.png)
+![Training Progression](https://github.com/adibgpt/Multitask-Learning-enabled-Generative-Variational-Autoencoder/blob/27b093aa30d80ce805f5e796ff772e84e66e3e23/Sample%20results/download.png)
 
 ### Key Observations:
 1. **Initial Learning**:
