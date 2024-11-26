@@ -31,7 +31,7 @@ These results indicate that the model successfully learns key features from the 
 
 The test cases evaluate the model's ability to generalize to unseen data. Below is a comparison of the ground truth and model predictions at Epoch 800 for two test examples:
 
-![Test Case Performance](path/to/test_visualization.png)
+![Test Case Performance](https://github.com/adibgpt/Multitask-Learning-enabled-Generative-Variational-Autoencoder/blob/93c7132397baafde408421918a9b4cbbc9e5a564/Sample%20results/download%20(9).png)
 
 ### Key Observations:
 1. **Generalization**:
