@@ -2,7 +2,7 @@
 
 # Model Training and Evaluation
 
-This repository contains the results of training and evaluating a [describe your model, e.g., machine learning model for X task]. The visualizations provided showcase the model's progression during training and its performance on test cases.
+This repository contains the results of training and evaluating the Generative Variational Autoencoder enhanced by interpolation and SE policies. The visualizations provided showcase the model's progression during training and its performance on test cases.
 
 ---
 
@@ -45,16 +45,6 @@ The test cases evaluate the model's ability to generalize to unseen data. Below 
 
 ### Implications:
 The accurate reproduction of ground truth patterns on test data confirms that the model is not overfitting and is well-suited for real-world deployment scenarios.
-
----
-
-## Conclusion
-
-This project demonstrates the successful training and evaluation of a [your model/task description]. The visualizations highlight:
-- Effective learning during training.
-- Strong generalization to test data.
-
-Future work could explore fine-tuning the model to address minor performance gaps and extend its applicability to more diverse datasets.
 
 ---
 
